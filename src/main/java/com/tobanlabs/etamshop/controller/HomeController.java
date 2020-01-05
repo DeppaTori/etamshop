@@ -10,6 +10,6 @@ public class HomeController {
 
     @GetMapping
     public String getMessage(){
-        return "Hello Rachel!!";
+        return "Good Morning Rachel!!";
     }
 }
